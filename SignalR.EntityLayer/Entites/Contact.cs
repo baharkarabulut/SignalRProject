@@ -1,6 +1,6 @@
 ﻿namespace SignalR.EntityLayer.Entites
 {
-	internal class Contact
+	public class Contact
 	{
 		public int ContactID { get; set; }
 		public string Location { get; set; }

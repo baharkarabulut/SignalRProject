@@ -1,6 +1,6 @@
 ﻿namespace SignalR.EntityLayer.Entites
 {
-	internal class SocialMedia
+	public class SocialMedia
 	{
 		public int SocialMediaID { get; set; }
 		public string Title { get; set; }
