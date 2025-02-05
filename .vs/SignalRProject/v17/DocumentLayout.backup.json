@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +55,115 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\SocialMedia.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\SocialMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:34:06.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Contact.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Contact.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Contact.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:31:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Testimonial.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Testimonial.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:29:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Product.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Product.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:28:12.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Feature.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Feature.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Feature.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:28:06.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Discount.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Discount.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Discount.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:28:00.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Category.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Category.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:27:44.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Booking.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Booking.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Booking.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:27:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\About.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\About.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\About.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:26:59.12Z"
             }
           ]
         }
