@@ -1,52 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\itestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\itestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\isocialmediadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\isocialmediadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\ibookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\ibookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\idiscountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\idiscountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\ifeaturedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\ifeaturedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -54,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,148 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ITestimonialDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:29:07.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISocialMediaDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\ISocialMediaDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\ISocialMediaDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\ISocialMediaDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\ISocialMediaDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:28:21.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:27:27.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IFeatureDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IFeatureDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IFeatureDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IFeatureDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IFeatureDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:26:55.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IDiscountDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IDiscountDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IDiscountDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IDiscountDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IDiscountDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:26:13.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IContactDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IContactDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IContactDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IContactDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IContactDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:25:22.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\ICategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:24:33.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBookingDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IBookingDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:23:17.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAboutDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IAboutDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:21:35.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IGenericDal.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:19:06.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SignalRContext.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:17:00.948Z"
             }
           ]
         }
