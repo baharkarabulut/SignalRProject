@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Migrations\\20250206170850_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SignalR.DataAccessLayer\\Migrations\\20250206170850_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECFC4B4-5EB1-4FB2-9B18-F3D905B16E4F}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250206170850_initialize.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Migrations\\20250206170850_initialize.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Migrations\\20250206170850_initialize.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Migrations\\20250206170850_initialize.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Migrations\\20250206170850_initialize.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:08:51.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignalRContext.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:17:00.948Z",
+              "EditorCaption": ""
             }
           ]
         }
