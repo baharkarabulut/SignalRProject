@@ -1,6 +1,12 @@
-﻿namespace SignalR.EntityLayer.Entites
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SignalR.DtoLayer.BookingDto
 {
-	public class Booking
+	public class GetBookingDto
 	{
 		public int BookingID { get; set; }
 		public string Name { get; set; }
