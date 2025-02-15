@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalrapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D24C281-ADF2-44DA-A082-6C85FA65DE60}|SignalR.DtoLayer\\SignalR.DtoLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.dtolayer\\categorydto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D24C281-ADF2-44DA-A082-6C85FA65DE60}|SignalR.DtoLayer\\SignalR.DtoLayer.csproj|solutionrelative:signalr.dtolayer\\categorydto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalrapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:14:39.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Program.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
-              "RelativeToolTip": "SignalRApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\CategoryDto\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "SignalR.DtoLayer\\CategoryDto\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\CategoryDto\\CreateCategoryDto.cs",
+              "RelativeToolTip": "SignalR.DtoLayer\\CategoryDto\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:07:34.287Z",
+              "WhenOpened": "2025-02-15T14:55:31.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDwAAAADAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Category.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Category.cs",
+              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T14:32:43.29Z",
+              "WhenOpened": "2025-02-15T14:36:52.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA6wDUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:24:41.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Program.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeToolTip": "SignalRApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:07:34.287Z",
               "EditorCaption": ""
             }
           ]
