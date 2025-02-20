@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingalRWebUl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b4a65d341a26f0fb1881808a9ae09329dd57cb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe0a74d75253be07d6ea7d04a5cb22a69a077e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingalRWebUl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingalRWebUl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalr.entitylayer\\entites\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F9A9699-02E0-48E0-9603-E76DB6AFE063}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entites\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalrapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,45 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Discount.cs",
-              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Discount.cs",
-              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entites\\Discount.cs",
-              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\Entites\\Discount.cs",
-              "RelativeToolTip": "SignalR.EntityLayer\\Entites\\Discount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:48:49.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "DiscountController.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountController.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Controllers\\DiscountController.cs",
               "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountController.cs",
               "RelativeToolTip": "SignalRApi\\Controllers\\DiscountController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:26:28.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ContactController.cs",
               "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ContactController.cs",
               "RelativeToolTip": "SignalRApi\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwEUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:13:31.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Controllers\\CategoryController.cs",
@@ -93,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Program.cs",
