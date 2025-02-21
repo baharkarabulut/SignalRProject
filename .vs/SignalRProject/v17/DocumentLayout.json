@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|c:\\users\\bahars\\source\\repos\\signalrproject\\signalrapi\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{776E785B-C33C-4900-84C5-674A0C2FC76C}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:09:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FeatureController.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\FeatureController.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Controllers\\FeatureController.cs",
               "ToolTip": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\FeatureController.cs",
               "RelativeToolTip": "SignalRApi\\Controllers\\FeatureController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T10:52:41.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DiscountController.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountController.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Controllers\\DiscountController.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "SignalRApi\\Controllers\\DiscountController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwEUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:26:28.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:26:28.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Controllers\\CategoryController.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\BAHARS\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ContactController.cs",
