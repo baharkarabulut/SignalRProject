@@ -11,7 +11,6 @@ namespace SignalR.DtoLayer.CategoryDto
 	{
 		[Required]
 		public string Name { get; set; }  // EKLENDİ
-		public string CategoryName { get; set; }
 		public bool Status { get; set; }
 
 	}

@@ -7,8 +7,7 @@ namespace SignalR.EntityLayer.Entites
 		public int CategoryID { get; set; }
 		[Required] // Boş olamaz
 		public string Name { get; set; }
-
-		public string CategoryName { get; set; }
 		public bool Status { get; set; }
+		public List<Product> Products { get; set;}
 	}
 }

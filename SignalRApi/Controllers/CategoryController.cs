@@ -33,7 +33,6 @@ namespace SignalRApi.Controllers
 			_categoryService.TAdd(new Category()
 			{
 				Name = createCategoryDto.Name,
-				CategoryName = createCategoryDto.CategoryName,
 				Status = createCategoryDto.Status
 			});
 			return Ok("Kategori eklendi.");
@@ -59,7 +58,6 @@ namespace SignalRApi.Controllers
 		{
 			_categoryService.TUpdate(new Category()
 			{
-				CategoryName = updateCategoryDto.CategoryName,
 				CategoryID = updateCategoryDto.CategoryID,
 				Status = updateCategoryDto.Status,
 				Name = updateCategoryDto.Name
